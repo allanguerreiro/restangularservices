@@ -1,0 +1,171 @@
+2020-05-21 14:30:33,579 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on SA0052412 with PID 31740 (C:\Development\Curso\restangularservices\target\classes started by AGC0118 in C:\Development\Curso\restangularservices)
+2020-05-21 14:30:33,595 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-05-21 14:30:33,595 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-05-21 14:30:36,736 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-05-21 14:30:36,752 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-21 14:30:36,752 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-05-21 14:30:36,752 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-21 14:30:36,893 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-05-21 14:30:36,893 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 3108 ms
+2020-05-21 14:30:37,125 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-21 14:30:37,359 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-05-21 14:30:37,391 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-21 14:30:37,406 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 4.908 seconds (JVM running for 7.259)
+2020-05-21 14:31:49,049 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-21 14:31:49,050 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-05-21 14:31:49,062 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 11 ms
+2020-05-21 14:31:49,358 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-1] No getAllMembers
+2020-05-21 14:31:52,616 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-3] No getAllMembers
+2020-05-21 14:31:57,369 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-6] No getAllMembers
+2020-05-21 14:31:57,467 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-9] No updateMember Member(id=1, name=Allan Teste 1, bio=Bio Teste 1, age=39)
+2020-05-21 14:32:14,792 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-9] No getAllMembers
+2020-05-21 14:33:09,101 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-21 14:36:44,567 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on SA0052412 with PID 55176 (C:\Development\Curso\restangularservices\target\classes started by AGC0118 in C:\Development\Curso\restangularservices)
+2020-05-21 14:36:44,583 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-05-21 14:36:44,583 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-05-21 14:36:46,437 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-05-21 14:36:46,452 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-21 14:36:46,452 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-05-21 14:36:46,452 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-21 14:36:46,615 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-05-21 14:36:46,615 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1938 ms
+2020-05-21 14:36:46,857 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-21 14:36:47,064 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-05-21 14:36:47,105 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-21 14:36:47,120 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 3.634 seconds (JVM running for 5.952)
+2020-05-21 14:37:05,335 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-21 14:37:05,338 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-05-21 14:37:05,351 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 12 ms
+2020-05-21 14:37:05,472 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-1] No getAllMembers
+2020-05-21 14:37:09,121 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-4] No getAllMembers
+2020-05-21 14:37:13,085 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-6] No getAllMembers
+2020-05-21 14:37:13,144 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-3] No updateMember Member(id=1, name=Allan Teste 1, bio=Bio Teste 1, age=39)
+2020-05-21 14:37:19,425 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-3] No getAllMembers
+2020-05-21 14:38:03,522 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-9] No getAllMembers
+2020-05-21 14:38:19,423 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-1] No getAllMembers
+2020-05-21 14:38:21,751 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-2] No getAllMembers
+2020-05-21 14:38:29,437 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 14:39:03,480 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-3] No updateMember Member(id=2, name=Allan Teste 2, bio=Bio Teste 2, age=18)
+2020-05-21 14:39:03,481 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-3] No getAllMembers
+2020-05-21 14:39:06,586 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-8] No getAllMembers
+2020-05-21 14:39:18,730 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-10] No getAllMembers
+2020-05-21 14:39:23,002 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 14:39:22,999 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-4] No updateMember Member(id=3, name=Allan Teste 3, bio=Bio Teste 3, age=25)
+2020-05-21 14:39:23,006 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-4] No getAllMembers
+2020-05-21 14:39:43,087 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-3] No getAllMembers
+2020-05-21 14:42:10,449 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-9] No getAllMembers
+2020-05-21 14:42:40,608 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-1] No getAllMembers
+2020-05-21 14:42:45,968 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 14:42:50,248 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-6] No updateMember Member(id=1, name=Allan Teste 1, bio=Bio Teste 1, age=35)
+2020-05-21 14:42:50,251 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-6] No getAllMembers
+2020-05-21 14:42:50,261 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-7] No getAllMembers
+2020-05-21 14:42:57,356 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-8] No getAllMembers
+2020-05-21 14:43:01,383 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-10] No updateMember Member(id=2, name=Allan Teste 2, bio=Bio Teste 2, age=20)
+2020-05-21 14:43:01,385 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-10] No getAllMembers
+2020-05-21 14:43:01,412 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-1] No getAllMembers
+2020-05-21 14:43:06,534 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 14:43:10,708 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-6] No updateMember Member(id=3, name=Allan Teste 3, bio=Bio Teste 3, age=18)
+2020-05-21 14:43:10,712 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-6] No getAllMembers
+2020-05-21 14:43:10,778 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-7] No getAllMembers
+2020-05-21 14:44:02,014 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-9] No createMember Member(id=null, name=null, bio=null, age=null)
+2020-05-21 14:44:05,044 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-10] No getAllMembers
+2020-05-21 14:45:31,541 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 15:09:59,499 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-6] No getAllMembers
+2020-05-21 15:10:15,970 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-3] No getAllMembers
+2020-05-21 15:11:40,861 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-21 15:11:53,722 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on SA0052412 with PID 52504 (C:\Development\Curso\restangularservices\target\classes started by AGC0118 in C:\Development\Curso\restangularservices)
+2020-05-21 15:11:53,732 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-05-21 15:11:53,733 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-05-21 15:11:56,375 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-05-21 15:11:56,406 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-21 15:11:56,406 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-05-21 15:11:56,406 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-21 15:11:56,601 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-05-21 15:11:56,617 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2716 ms
+2020-05-21 15:11:56,876 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-21 15:11:57,080 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-05-21 15:11:57,126 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-21 15:11:57,126 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 5.009 seconds (JVM running for 7.772)
+2020-05-21 15:18:34,970 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-21 15:18:34,972 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-05-21 15:18:34,988 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 14 ms
+2020-05-21 15:18:35,216 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-1] No getAllMembers
+2020-05-21 15:20:03,564 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-6] No getAllMembers
+2020-05-21 15:20:03,720 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-4] No createMember Member(id=null, name=null, bio=null, age=null)
+2020-05-21 15:20:32,220 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-21 15:22:09,669 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on SA0052412 with PID 56300 (C:\Development\Curso\restangularservices\target\classes started by AGC0118 in C:\Development\Curso\restangularservices)
+2020-05-21 15:22:09,676 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-05-21 15:22:09,677 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-05-21 15:22:13,299 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-05-21 15:22:13,314 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-21 15:22:13,314 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-05-21 15:22:13,314 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-21 15:22:13,533 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-05-21 15:22:13,533 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 3754 ms
+2020-05-21 15:22:13,860 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-21 15:22:14,235 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-05-21 15:22:14,282 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-21 15:22:14,314 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 5.967 seconds (JVM running for 8.386)
+2020-05-21 15:26:10,700 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-21 15:26:10,702 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2020-05-21 15:26:10,765 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 24 ms
+2020-05-21 15:26:11,063 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-1] No getAllMembers
+2020-05-21 15:26:30,624 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-4] No getAllMembers
+2020-05-21 15:27:27,280 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 16:05:01,128 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
+2020-05-21 16:10:49,823 INFO org.springframework.boot.StartupInfoLogger [main] Starting Application on SA0052412 with PID 57244 (C:\Development\Curso\restangularservices\target\classes started by AGC0118 in C:\Development\Curso\restangularservices)
+2020-05-21 16:10:49,851 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+2020-05-21 16:10:49,852 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2020-05-21 16:10:58,201 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2020-05-21 16:10:58,226 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2020-05-21 16:10:58,228 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2020-05-21 16:10:58,229 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.35]
+2020-05-21 16:10:58,470 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2020-05-21 16:10:58,471 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 8153 ms
+2020-05-21 16:10:58,865 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [main] Initializing ExecutorService 'applicationTaskExecutor'
+2020-05-21 16:10:59,192 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2020-05-21 16:10:59,236 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2020-05-21 16:10:59,267 INFO org.springframework.boot.StartupInfoLogger [main] Started Application in 16.304 seconds (JVM running for 19.883)
+2020-05-21 16:12:09,555 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-3] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-05-21 16:12:09,558 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-3] Initializing Servlet 'dispatcherServlet'
+2020-05-21 16:12:09,609 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-3] Completed initialization in 26 ms
+2020-05-21 16:12:09,807 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-3] No getAllMembers
+2020-05-21 16:15:05,177 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-4] No getAllMembers
+2020-05-21 16:15:52,789 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 16:15:53,005 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-7] No createMember Member(id=null, name=, bio=, age=null)
+2020-05-21 16:16:36,655 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-8] No getAllMembers
+2020-05-21 16:16:47,610 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-2] No deleteMember 4
+2020-05-21 16:39:57,938 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 16:55:40,893 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-7] No createMember Member(id=null, name=Allan Teste 4, bio=Bio Teste 4, age=12)
+2020-05-21 16:55:40,941 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-9] No getAllMembers
+2020-05-21 16:56:19,330 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-3] No createMember Member(id=null, name=, bio=Bio Teste 5, age=15)
+2020-05-21 16:56:19,383 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-2] No getAllMembers
+2020-05-21 16:56:24,848 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-4] No getAllMembers
+2020-05-21 16:56:30,206 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-6] No updateMember Member(id=5, name=Allan Teste 5, bio=Bio Teste 5, age=15)
+2020-05-21 16:56:30,212 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-6] No getAllMembers
+2020-05-21 16:56:30,226 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-7] No getAllMembers
+2020-05-21 16:58:15,849 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-10] No getAllMembers
+2020-05-21 17:02:03,631 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-2] No getAllMembers
+2020-05-21 17:08:39,237 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-1] No getAllMembers
+2020-05-21 17:08:39,473 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-7] No createMember Member(id=null, name=a, bio=, age=null)
+2020-05-21 17:08:42,478 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-10] No deleteMember 6
+2020-05-21 17:10:57,011 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-4] No createMember Member(id=null, name=, bio=Bio Teste 6, age=15)
+2020-05-21 17:10:57,118 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 17:11:00,135 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-7] No deleteMember 6
+2020-05-21 17:13:23,072 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-8] No getAllMembers
+2020-05-21 17:14:07,776 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-10] No getAllMembers
+2020-05-21 17:14:37,363 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-4] No createMember Member(id=null, name=, bio=, age=null)
+2020-05-21 17:14:37,399 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 17:14:40,244 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-7] No deleteMember 6
+2020-05-21 17:15:13,608 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-8] No getAllMembers
+2020-05-21 17:17:16,115 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-10] No getAllMembers
+2020-05-21 17:18:54,594 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-2] No getAllMembers
+2020-05-21 17:19:09,101 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-5] No getAllMembers
+2020-05-21 17:19:31,928 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-7] No getAllMembers
+2020-05-21 17:20:56,863 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-8] No getAllMembers
+2020-05-21 17:21:19,726 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-10] No getAllMembers
+2020-05-21 18:28:40,502 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-2] No getAllMembers
+2020-05-21 18:29:36,765 WARN org.springframework.web.servlet.handler.AbstractHandlerExceptionResolver [http-nio-8080-exec-5] Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "undefined"]
+2020-05-21 18:31:21,643 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-1] No getAllMembers
+2020-05-21 18:32:15,684 DEBUG br.com.angular.controller.RestServiceController [http-nio-8080-exec-8] No deleteMember 5
+2020-05-21 18:35:11,642 INFO org.springframework.scheduling.concurrent.ExecutorConfigurationSupport [SpringContextShutdownHook] Shutting down ExecutorService 'applicationTaskExecutor'
